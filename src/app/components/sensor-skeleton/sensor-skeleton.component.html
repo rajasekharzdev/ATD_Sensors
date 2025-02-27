@@ -1,0 +1,15 @@
+<div>{{ title }}</div>
+<br />
+<textarea [(ngModel)]="sensorString" style="width: 100px"></textarea>
+<br />
+<div><button>Update Senor Record</button></div>
+
+<div class="skeleton">
+  <div
+    *ngFor="let sensor of sensorStatus; let i = index"
+    class="sensor-dot"
+    [ngStyle]="{ 'background-color': getColor(sensor) }"
+  >
+    {{ i + 1 }}
+  </div>
+</div>

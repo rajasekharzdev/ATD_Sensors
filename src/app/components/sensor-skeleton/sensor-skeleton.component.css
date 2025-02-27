@@ -86,10 +86,10 @@
   background-color: #000;
   position: absolute;
   width: 5px;
-  height: 192px;
+  height: 150px;
   transform: rotate(70deg);
   position: relative;
-  left: -280%;
+  left: -225%;
   top: 90%;
 }
 
@@ -120,10 +120,10 @@
   content: "";
   width: 5px;
   background-color: #000;
-  height: 125px;
+  height: 100px;
   transform: rotate(60deg);
   position: relative;
-  right: 75px;
+  right: 60px;
   top: 90%;
 }
 
@@ -131,9 +131,9 @@
   content: "";
   width: 5px;
   background-color: #000;
-  height: 125px;
+  height: 100px;
   transform: rotate(-60deg);
   position: relative;
-  right: 75px;
-  top: -100%;
+  right: 60px;
+  top: -90%;
 }
