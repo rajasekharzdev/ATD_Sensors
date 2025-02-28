@@ -1,15 +1,66 @@
-<div>{{ title }}</div>
-<br />
-<textarea [(ngModel)]="sensorString" style="width: 100px"></textarea>
-<br />
-<div><button>Update Senor Record</button></div>
+<div style="padding: 24px">
+  <form>
+    <div>
+      <mat-form-field>
+        <mat-label>Serial Num</mat-label>
+        <input
+          matInput
+          disabled
+          type="text"
+          name="serialNo"
+          [(ngModel)]="formModel.serialNo"
+        />
+      </mat-form-field>
+    </div>
 
-<div class="skeleton">
-  <div
-    *ngFor="let sensor of sensorStatus; let i = index"
-    class="sensor-dot"
-    [ngStyle]="{ 'background-color': getColor(sensor) }"
-  >
-    {{ i + 1 }}
+    <div>
+      <mat-form-field>
+        <mat-label>Sensor Code</mat-label>
+        <input
+          matInput
+          type="text"
+          name="sensorCode"
+          [(ngModel)]="formModel.sensorCode"
+        />
+      </mat-form-field>
+    </div>
+
+    <div>
+      <mat-form-field>
+        <mat-label>From Time</mat-label>
+        <input
+          matInput
+          type="text"
+          name="fromTime"
+          [(ngModel)]="formModel.fromTime"
+        />
+      </mat-form-field>
+    </div>
+
+    <div>
+      <mat-form-field>
+        <mat-label>To Time</mat-label>
+        <input
+          matInput
+          type="text"
+          name="toTime"
+          [(ngModel)]="formModel.toTime"
+        />
+      </mat-form-field>
+    </div>
+
+    <button mat-raised-button color="primary" (click)="updateSensorRecord()">
+      Update Senor Record
+    </button>
+  </form>
+
+  <div class="skeleton">
+    <div
+      *ngFor="let sensor of sensorStatus; let i = index"
+      class="sensor-dot"
+      [ngStyle]="{ 'background-color': getColor(sensor) }"
+    >
+      {{ i + 1 }}
+    </div>
   </div>
 </div>

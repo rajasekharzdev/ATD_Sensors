@@ -1,0 +1,602 @@
+[
+  {
+    "serialNo": 1,
+    "sensorCode": "GGRGRRRGY",
+    "fromTime": "Thu Feb 27 2025 15:59:01 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 2,
+    "sensorCode": "GRRRRGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:01 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 3,
+    "sensorCode": "GYGRRGRRG",
+    "fromTime": "Thu Feb 27 2025 15:59:01 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 4,
+    "sensorCode": "RRRRGGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:01 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 5,
+    "sensorCode": "GYGRRYRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:01 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 6,
+    "sensorCode": "GGRYGRRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 7,
+    "sensorCode": "GYGGYGGYR",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 8,
+    "sensorCode": "GGGYYRRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 9,
+    "sensorCode": "YGRRGRRYG",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 10,
+    "sensorCode": "YYRGGRYRG",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 11,
+    "sensorCode": "RRGRYGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 12,
+    "sensorCode": "GRGRYGGRY",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 13,
+    "sensorCode": "GRGRYGRYY",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 14,
+    "sensorCode": "GGRYGGGRG",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 15,
+    "sensorCode": "RRGRYGGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:02 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:12 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 16,
+    "sensorCode": "RRGYYGGYR",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 17,
+    "sensorCode": "RRYGGRGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 18,
+    "sensorCode": "GGGRGRRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 19,
+    "sensorCode": "YGGGYGYYG",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 20,
+    "sensorCode": "YYGYGRYRG",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 21,
+    "sensorCode": "GYGYGRRRR",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 22,
+    "sensorCode": "GGYGRRRGR",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 23,
+    "sensorCode": "YGGRRYGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 24,
+    "sensorCode": "GGGRGRGRY",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 25,
+    "sensorCode": "RRGGYRYGG",
+    "fromTime": "Thu Feb 27 2025 15:59:03 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:13 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 26,
+    "sensorCode": "GGGGGGGGY",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 27,
+    "sensorCode": "YRGGYGGGY",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 28,
+    "sensorCode": "RGYRGRYGY",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 29,
+    "sensorCode": "RYYRYGGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 30,
+    "sensorCode": "GGGRRRRYG",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 31,
+    "sensorCode": "RGYRGYGRY",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 32,
+    "sensorCode": "GRRRGRGYG",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 33,
+    "sensorCode": "RGGRYRGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 34,
+    "sensorCode": "RYGRRRGYR",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 35,
+    "sensorCode": "RGRRYGGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:04 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:14 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 36,
+    "sensorCode": "GRRYGGRRY",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 37,
+    "sensorCode": "RRRGGGRGY",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 38,
+    "sensorCode": "RRGGRGGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 39,
+    "sensorCode": "RGYGGGYYR",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 40,
+    "sensorCode": "GGGRYGGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 41,
+    "sensorCode": "GRYYRYRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 42,
+    "sensorCode": "GGRGGGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 43,
+    "sensorCode": "RYYRGRGRG",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 44,
+    "sensorCode": "RYGGRYGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 45,
+    "sensorCode": "RGYYRYRYR",
+    "fromTime": "Thu Feb 27 2025 15:59:05 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:15 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 46,
+    "sensorCode": "GGRGGYGGY",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 47,
+    "sensorCode": "GGRGRGYRR",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 48,
+    "sensorCode": "RRGGGRGRG",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 49,
+    "sensorCode": "RYGGGRYGR",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 50,
+    "sensorCode": "YRRYRGGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 51,
+    "sensorCode": "RYRRGYGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 52,
+    "sensorCode": "GGYYYRGYG",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 53,
+    "sensorCode": "RGGYGYGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 54,
+    "sensorCode": "GRRGGGGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 55,
+    "sensorCode": "GRGRGGRRR",
+    "fromTime": "Thu Feb 27 2025 15:59:06 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:16 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 56,
+    "sensorCode": "RRGGGRRRG",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 57,
+    "sensorCode": "YRGRRGGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 58,
+    "sensorCode": "GGGGYGRRG",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 59,
+    "sensorCode": "GGGGYRRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 60,
+    "sensorCode": "RYGGYRGRY",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 61,
+    "sensorCode": "GGGGRYRRR",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 62,
+    "sensorCode": "GGRGGRRRY",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 63,
+    "sensorCode": "GYGGRGRRG",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 64,
+    "sensorCode": "GYGGRYGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 65,
+    "sensorCode": "RYRYYRGYG",
+    "fromTime": "Thu Feb 27 2025 15:59:07 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:17 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 66,
+    "sensorCode": "RGYGRGGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 67,
+    "sensorCode": "RYGGRYYGR",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 68,
+    "sensorCode": "RGYRRGYYR",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 69,
+    "sensorCode": "YGRRRGRRR",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 70,
+    "sensorCode": "GRGYRYGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 71,
+    "sensorCode": "GGYRGYGRY",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 72,
+    "sensorCode": "RRGYRGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 73,
+    "sensorCode": "YYRGRGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 74,
+    "sensorCode": "YYGGYYRYG",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 75,
+    "sensorCode": "YRGGGGYRR",
+    "fromTime": "Thu Feb 27 2025 15:59:08 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:18 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 76,
+    "sensorCode": "RRRYGRYGG",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 77,
+    "sensorCode": "GRRRGGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 78,
+    "sensorCode": "RRRGGRRGR",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 79,
+    "sensorCode": "RGYRGRGGY",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 80,
+    "sensorCode": "YRGGYYGYY",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 81,
+    "sensorCode": "GGGGGGGGY",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 82,
+    "sensorCode": "RYGYGGGYR",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 83,
+    "sensorCode": "YRGGGGRYR",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 84,
+    "sensorCode": "RYGGYGRRR",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 85,
+    "sensorCode": "GYYGGYYRY",
+    "fromTime": "Thu Feb 27 2025 15:59:09 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:19 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 86,
+    "sensorCode": "GYRRGRYGY",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 87,
+    "sensorCode": "GYGGGGRYG",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 88,
+    "sensorCode": "GYRYYGGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 89,
+    "sensorCode": "GRYRGRRGR",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 90,
+    "sensorCode": "GRYRGYGGG",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 91,
+    "sensorCode": "GGGGRRGGY",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 92,
+    "sensorCode": "RGRGGGGGY",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 93,
+    "sensorCode": "RGGGRGRRG",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 94,
+    "sensorCode": "RRGGGGGYG",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 95,
+    "sensorCode": "GGGGGGRGR",
+    "fromTime": "Thu Feb 27 2025 15:59:10 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:20 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 96,
+    "sensorCode": "RGGRRGYGY",
+    "fromTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:21 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 97,
+    "sensorCode": "GRYRRRYGY",
+    "fromTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:21 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 98,
+    "sensorCode": "GGRGYYGGR",
+    "fromTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:21 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 99,
+    "sensorCode": "RYGGGGRRR",
+    "fromTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:21 GMT-0500 (Eastern Standard Time)"
+  },
+  {
+    "serialNo": 100,
+    "sensorCode": "YYRGYGRGG",
+    "fromTime": "Thu Feb 27 2025 15:59:11 GMT-0500 (Eastern Standard Time)",
+    "toTime": "Thu Feb 27 2025 15:59:21 GMT-0500 (Eastern Standard Time)"
+  }
+]
